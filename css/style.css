@@ -1,0 +1,69 @@
+body {
+    font-family: sans-serif;
+}
+
+nav {
+    height: 50px;
+    background-color: lightgrey;
+  }
+  
+  /* target the class of inline-block below */
+  
+  .inline-block {
+    display: inline-block;
+    padding: 15px;
+    text-align: center;
+    background-color: rgb(56, 56, 56);
+    color: lightgray;
+    width: 100px;
+
+  }
+  
+  /* target the class of .left below */
+  
+  .left {
+
+    float: left;
+    width: 29%;
+    text-align: left;
+  }
+  
+  /* target the class of .right below */
+  
+  .right {
+
+    float: left;
+
+    width: 70%;
+    text-align: left;
+  
+  }
+  
+  .card {
+    display: inline-block;
+    border-radius: 5px;
+
+    width: 150px;
+    margin: 35px;
+    padding: 10px;
+
+    background-color: lightgrey;
+    font-size: x-small;
+  
+  }
+
+  .pictures {
+      text-align: center;
+      display: inline-block;
+  }
+
+  .heroimage {
+
+      float: left;
+      padding-right: 10px;
+  }
+
+  .whisper {
+font-size: xx-small;
+
+  }
