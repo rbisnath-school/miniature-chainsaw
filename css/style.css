@@ -41,7 +41,7 @@ nav {
   
   .card {
     display: inline-block;
-    border-radius: 5px;
+    border-radius: 5px; 
 
     width: 150px;
     margin: 35px;
